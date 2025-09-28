@@ -49,5 +49,5 @@ const API_KEY = "YOUR_API_KEY"; // replace with your OpenWeatherMap API key
 4. Start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
