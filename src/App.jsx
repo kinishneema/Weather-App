@@ -55,7 +55,7 @@ export default function App() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-400 via-blue-200 to-white p-6">
       <div className="w-full max-w-5xl flex flex-col items-center">
         <h1 className="text-4xl font-bold text-blue-800 mb-6 drop-shadow-lg">
-          🌤 Weather App
+          Weather App
         </h1>
 
         <SearchBar onSearch={handleSearch} />
