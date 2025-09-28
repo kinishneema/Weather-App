@@ -1,4 +1,4 @@
-# React Weather App 🌤️
+# React Weather App
 
 A simple, responsive weather application built with React.js.  
 It allows users to search for any city, displays current weather, and shows a 5-day forecast.  
