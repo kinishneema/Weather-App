@@ -7,7 +7,6 @@ export default function SearchBar({ onSearch }) {
     e.preventDefault();
     if (city.trim()) {
       onSearch(city);
-      setCity("");
     }
   };
 
