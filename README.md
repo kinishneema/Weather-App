@@ -41,11 +41,12 @@ npm install
 
 3. Make sure your API key is set in `src/api.js`:
 
-````js
+```bash
 const API_KEY = "YOUR_API_KEY"; // replace with your OpenWeatherMap API key
+```
 
 4. Start the development server:
 
 ```bash
 npm start
-````
+```
