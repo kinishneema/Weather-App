@@ -21,7 +21,7 @@ The app also remembers the last successfully searched city using `localStorage`.
 ## **Demo Screenshot**
 
 <!-- ![Weather App Screenshot](src/assets/Weather-App-Screenshot.png) -->
-<img src="Weather-App-Screenshot.png" alt="Weather App Screenshot" width="500"/>
+<img src="https://github.com/kinishneema/Weather-App/blob/main/public/Weather-App-Screenshot.png" alt="Weather App Screenshot" width="500"/>
 
 ---
 
