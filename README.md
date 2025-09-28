@@ -20,7 +20,7 @@ The app also remembers the last successfully searched city using `localStorage`.
 
 ## **Demo Screenshot**
 
-![Weather App Screenshot](assets/Weather-App-Screenshot.png)
+![Weather App Screenshot](src/assets/Weather-App-Screenshot.png)
 
 ---
 
