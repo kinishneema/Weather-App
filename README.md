@@ -30,7 +30,7 @@ _(Add screenshots or a GIF of your app here)_
 
 ```bash
 git clone https://github.com/kinishneema/Weather-App
-cd react-weather-app
+cd Weather-App
 ```
 
 2. Install dependencies:
