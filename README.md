@@ -1,16 +1,34 @@
-# React + Vite
+# React Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive weather application built with React.js.  
+It allows users to search for any city, displays current weather, and shows a 5-day forecast.  
+The app also remembers the last successfully searched city using `localStorage`.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**
 
-## React Compiler
+- Search any city and view current weather (temperature, humidity, condition).
+- 5-day weather forecast displayed in a clean card layout.
+- Loading indicator while fetching data.
+- Error handling for invalid city searches.
+- Last searched city saved in localStorage and displayed below the search bar.
+- Clickable last searched city to quickly reload its weather.
+- Responsive and centered design.
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## **Demo Screenshot**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+_(Add screenshots or a GIF of your app here)_
+
+---
+
+## **Installation & Setup**
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/react-weather-app.git
+cd react-weather-app
+```
