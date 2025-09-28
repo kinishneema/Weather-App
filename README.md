@@ -29,7 +29,7 @@ _(Add screenshots or a GIF of your app here)_
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-weather-app.git
+git clone https://github.com/kinishneema/Weather-App
 cd react-weather-app
 ```
 
