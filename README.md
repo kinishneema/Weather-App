@@ -1,4 +1,4 @@
-# React Weather App
+# React Weather App 🌤️
 
 A simple, responsive weather application built with React.js.  
 It allows users to search for any city, displays current weather, and shows a 5-day forecast.  
@@ -31,4 +31,22 @@ _(Add screenshots or a GIF of your app here)_
 ```bash
 git clone https://github.com/YOUR_USERNAME/react-weather-app.git
 cd react-weather-app
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Create a .env file in the root and add your OpenWeatherMap API key:
+
+```bash
+REACT_APP_API_KEY=YOUR_API_KEY
+```
+
+4. Start the development server:
+
+```bash
+npm start
 ```
