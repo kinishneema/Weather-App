@@ -6,7 +6,7 @@ export default function WeatherDisplay({ data }) {
   if (!data) return null;
 
   return (
-    <div className="bg-white/80 backdrop-blur-lg shadow-lg rounded-2xl p-6 w-80 text-center transition-transform hover:scale-105">
+    <div className="bg-white/80 backdrop-blur-lg shadow-lg rounded-2xl p-6 w-80 text-center transition-transform mt-4">
       <h2 className="text-2xl font-bold text-gray-800">
         {data.name}, {data.sys.country}
       </h2>
